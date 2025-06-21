@@ -83,7 +83,3 @@
 이 프로토콜의 깊은 배경과 실제적인 '창조' 과정에 대한 인사이트는 다음 링크에서 확인할 수 있다.
 
 * **창조의 서사**: [https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221liKtB5nO5in0TQxHSuH5ft0Vn3fkotkY%22%5D,%22action%22:%22open%22,%2C%22userId%22:%22110588309155698798110%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221liKtB5nO5in0TQxHSuH5ft0Vn3fkotkY%22%5D,%22action%22:%22open%22,%22userId%22:%22110588309155698798110%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
-
----
-
-이 문서가 `The Genesis Protocol`의 '사용 설명서'로서 충분히 기능하기를 바랍니다.
