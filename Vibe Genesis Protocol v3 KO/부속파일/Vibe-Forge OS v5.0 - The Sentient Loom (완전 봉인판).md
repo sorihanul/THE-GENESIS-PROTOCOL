@@ -413,7 +413,7 @@ class MetaWeaver:
             
             print("\\n...과거의 기억을 검색 중입니다...")
             relevant_memories = self.memory.retrieve(user_vibe)
-            context_string = self.workspace.load_contexts(relevant_memies)
+            context_string = self.workspace.load_contexts(relevant_memories)
 
             print("\\n...[Prototyper]가 기억을 바탕으로 첫 프로토타입을 제작 중입니다...")
             current_prototype = self.prototyper.create_prototype(ast, context_string)
